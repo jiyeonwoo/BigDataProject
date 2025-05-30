@@ -22,28 +22,26 @@ This system combines machine learning, real-time data streaming, and geospatial 
 
 ##  Project Structure
 ```
-Prototype 2: Real-Time Parking Predictor/
-│
-├── data/
-│   ├── parking_inventory.csv
-│   └── recent_predictions.csv
-│
-├── models/
-│   ├── xgb_model.joblib
-│   └── pipeline.joblib
-│
-├── outputs/
-│
-├── src/
-│   ├── ingest.py
-│   ├── recommend.py
-│   ├── produce_stream.py
-│   ├── consume_and_query.py
-│   └── write_predictions.py
-│
-├── main.py
-├── requirements.txt
-└── streamlit_app.py
+BigDataProject/
+├── Prototype 1: Scalable Smart Parking Forecasting/
+├── Prototype 2: Real-Time Parking Predictor/
+│   ├── data/
+│   │   ├── parking_inventory.csv
+│   │   └── recent_predictions.csv
+│   ├── models/
+│   │   ├── xgb_model.joblib
+│   │   └── pipeline.joblib
+│   ├── outputs/
+│   ├── src/
+│   │   ├── ingest.py
+│   │   ├── recommend.py
+│   │   ├── produce_stream.py
+│   │   ├── consume_and_query.py
+│   │   └── write_predictions.py
+│   ├── main.py
+│   ├── requirements.txt
+│   └── streamlit_app.py
+└── README.md
 ```
 
 ---
