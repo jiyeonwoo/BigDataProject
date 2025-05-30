@@ -4,7 +4,7 @@
 
 A real-time parking recommendation engine for San Francisco that:
 - Streams synthetic parking data via Kafka
-- Predicts spot availability using an XGBoost model
+- Predicts spot availability using a machine learning model (XGBoost)
 - Displays nearest available parking locations on an interactive Streamlit web app
 
 ---
