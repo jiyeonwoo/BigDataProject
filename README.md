@@ -22,7 +22,7 @@ This system combines machine learning, real-time data streaming, and geospatial 
 
 ##  Project Structure
 ```
-**Prototype 2: Real-Time Parking Predictor/**
+Prototype 2: Real-Time Parking Predictor/
 │
 ├── data/
 │   ├── parking_inventory.csv
