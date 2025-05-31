@@ -126,7 +126,7 @@ This project was collaboratively developed for Big Data BAX 423.
 | Name             | GitHub                                   |
 |------------------|------------------------------------------|
 | Rimsa Shrestha   | [@rimsashrestha](https://github.com/rimsashrestha) |
-| Jiyeon Woo       | [@jiyeonwoo](https://github.com/jiyeonwoo) |
-| [Add Name]       | [@username](https://github.com/username) |
-
-
+| Jiyeon (Jenna) Woo       | [@jiyeonwoo](https://github.com/jiyeonwoo) |
+| Kaylyn Nguyen    |                               |
+| Katrin Maliatski    |                               |
+| Christina Zhu   |                               |
