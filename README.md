@@ -107,11 +107,15 @@ streamlit run streamlit_app.py
 ## Example
 User Location: Latitude = 37.7942, Longitude = -122.4063
 1. 📍 LARKIN ST #7 (Tenderloin)
+   
       Updated: 2025-05-27 22:55:49 — Weekday
+   
       Distance: 728.5 meters (~2 min drive)
 
-2. 📍 MISSION ST #10 (SoMa)
+3. 📍 MISSION ST #10 (SoMa)
+ 
       Updated: 2025-05-27 22:55:47 — Weekday
+   
       Distance: 1150.4 meters (~3 min drive)
 
 ## Future Improvements 
