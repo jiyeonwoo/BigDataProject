@@ -2,4 +2,10 @@
 
 **Group 5**
 
-Kaylyn Nguyen, Katrin Maliatski, Ji Yeon (Jenna) Woo, Rimsa Shrestha, Zhixuan (Christina) Zhu
+| Name             | GitHub                                   |
+|------------------|------------------------------------------|
+| Rimsa Shrestha   | [@rimsashrestha](https://github.com/rimsashrestha) |
+| Jiyeon (Jenna) Woo       | [@jiyeonwoo](https://github.com/jiyeonwoo) |
+| Kaylyn Nguyen    |                               |
+| Katrin Maliatski    |                               |
+| Christina Zhu   |                               |
