@@ -8,4 +8,4 @@
 | Ji Yeon (Jenna) Woo       | [@jiyeonwoo](https://github.com/jiyeonwoo) |
 | Kaylyn Nguyen    |                               |
 | Katrin Maliatski    |                               |
-| Christina Zhu   |                               |
+| Zhixuan (Christina) Zhu   |                               |
