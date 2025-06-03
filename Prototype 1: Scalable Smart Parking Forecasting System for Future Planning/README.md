@@ -56,9 +56,11 @@ Realistic Simulation
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/smart-parking-finder.git
+git clone https://github.com/jiyeonwoo/BigDataProject.git
 
-cd smart-parking-finder
+cd BigDataProject
+
+cd Prototype 1: Scalable Smart Parking Forecasting System for Future Planning
 ```
 2. Install dependencies:
 ```
