@@ -11,6 +11,6 @@ This project aims to enhance the everyday experience of city drivers by providin
 |------------------|------------------------------------------|
 | Rimsa Shrestha   | [@rimsashrestha](https://github.com/rimsashrestha) |
 | Ji Yeon (Jenna) Woo       | [@jiyeonwoo](https://github.com/jiyeonwoo) |
-| Kaylyn Nguyen    |                               |
+| Kaylyn Nguyen    | [@KaylynNguyen97](https://github.com/KaylynNguyen97) |
 | Katrin Maliatski    |                               |
 | Zhixuan (Christina) Zhu   |                               |
